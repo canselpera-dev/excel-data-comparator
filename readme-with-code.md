@@ -10,7 +10,7 @@ Eşleşen ve eşleşmeyen verileri ayrı sayfalara yazar, farkları hesaplar ve 
 - `config.json` dosyasından dosya yolları ve ayarlar okunur.
 - Belirlenen Excel sayfalarında başlık satırları hedef satıra kaydırılır.
 - Karşılaştırma dosyasından veriler pandas ile okunur ve gruplanır.
-- Giriş dosyasındaki ve karşılaştırma dosyasındaki `SD NO` değerleri karşılaştırılır.
+- Giriş dosyasındaki ve karşılaştırma dosyasındaki değerleri karşılaştırılır.
 - Eşleşen ve eşleşmeyen değerler ayrı sayfalara yazılır.
 - Eşleşenler için toplamlar hesaplanır, farklar bulunur ve belirli eşiklere göre renklendirilir.
 - Eşleşmeyenler için hangi sayfada bulunduğu işaretlenir.
